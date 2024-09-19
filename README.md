@@ -1,4 +1,4 @@
-# BasiFy-Mern-Stack-Bootcamp
+# BasiFy-Mern-Stack-Boot camp
 
 # HTML Exercise 01
 
@@ -7,3 +7,9 @@
 3.  Anchor Elements
 4.  Image Elements
 5.  Birthday Invite
+
+# HTML Exercise 02
+
+1. File Paths
+2. Webpages
+3. HTML Portfolio Project
