@@ -1,0 +1,27 @@
+div {
+  height: 200px;
+  width: 200px;
+}
+
+p {
+  margin: 0;
+}
+
+#first-div {
+  background-color: rgb(111, 250, 255);
+  padding: 20px;
+  border: 10px solid black;
+}
+
+#second-div {
+  background-color: rgb(250, 219, 46);
+  border: solid black;
+  border-width: 20px 10px;
+  margin-left: 260px;
+}
+
+#third-div {
+  background-color: rgb(255, 84, 84);
+  border: 10px solid black;
+  margin-left: 40px;
+}

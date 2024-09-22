@@ -19,3 +19,11 @@
 1. Adding CSS
 2. CSS Selectors
 3. Color Vocab Project
+
+# CSS Exercise 02
+
+1. CSS Box Model
+2. CSS Cascade
+3. Combining Selectors
+4. CSS Positioning
+5. CSS Flag Project
