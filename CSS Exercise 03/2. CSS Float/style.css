@@ -1,0 +1,28 @@
+div {
+  display: inline-block;
+  width: 45%;
+}
+
+p {
+  font-size: 2em;
+}
+
+.cat-div {
+  float: left;
+  background-color: rgb(95, 248, 197);
+}
+
+.dog-div {
+  float: right;
+  background-color: rgb(247, 104, 52);
+}
+
+img {
+  float: left;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  background-color: rgb(190, 130, 247);
+}

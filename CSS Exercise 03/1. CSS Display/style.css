@@ -1,0 +1,49 @@
+p {
+  color: white;
+}
+
+.red-box1 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.green-box1 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.blue-box1 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+p {
+  color: white;
+}
+
+.red-box2 {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.green-box2 {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.blue-box2 {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
