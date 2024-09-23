@@ -27,3 +27,20 @@
 3. Combining Selectors
 4. CSS Positioning
 5. CSS Flag Project
+
+# CSS Exercise 03
+
+1. CSS Display
+2. CSS Float
+3. Responsiveness
+4. Media Query
+5. Web Design Agency Project
+
+# CSS Exercise 04
+
+1. Display Flex
+2. Flex Direction
+3. Flex box Pricing Table Project
+4. Display Grid
+5. Grid Sizing
+6. Grid Placement

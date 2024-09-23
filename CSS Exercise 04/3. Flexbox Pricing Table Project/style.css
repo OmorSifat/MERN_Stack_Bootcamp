@@ -1,0 +1,53 @@
+body {
+  font-family: "Sono", sans-serif;
+}
+
+.pricing-container {
+  height: 100vh;
+  display: flex;
+  gap: 1%;
+}
+
+.pricing-plan {
+  height: 300px;
+  width: 32%;
+  background-color: rgb(241, 241, 240);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 5vh;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: rgb(255, 101, 44);
+  border: none;
+  border-radius: 5px;
+}
+
+.plan-features {
+  list-style: none;
+}
+
+/* Media query and flexbox? */
+@media (max-width: 1250px) {
+  body {
+    font-size: 10px;
+  }
+
+  .pricing-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .pricing-plan {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+}
